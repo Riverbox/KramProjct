@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 пїЅпїЅпїЅпїЅ
 Xuy
+=======
+Тест
+Тст2
+>>>>>>> refs/remotes/origin/master
