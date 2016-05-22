@@ -5,3 +5,5 @@ Xuy
 Тест
 Тст2
 >>>>>>> refs/remotes/origin/master
+test3
+
